@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537075998 source:c:\users\marco\onedrive\documentos\faculdade\tp1\main.c
+	"tp1.h"
+
+1537075952 source:c:\users\marco\onedrive\documentos\faculdade\tp1\tp1.c
+	"tp1.h"
+
+1537072901 c:\users\marco\onedrive\documentos\faculdade\tp1\tp1.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
