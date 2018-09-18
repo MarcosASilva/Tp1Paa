@@ -1,0 +1,1800 @@
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000007270111588
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000003848882605
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000056877931833
+Tempo de execução - Ordenaçao InsertionSort: 0.000012401955061
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000299357535962462
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000634210322618
+Tempo de execução - Ordenaçao InsertionSort: 0.001325726230691
+Algoritmo 1
+Tempo Algoritmo 1: 0.000115466478157
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004932556885416
+Tempo de execução - Ordenaçao InsertionSort: 0.091400270533682
+Algoritmo 1
+Tempo Algoritmo 1: 0.000915606406422
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00022237988385782911
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.045072553575377
+Tempo de execução - Ordenaçao InsertionSort: 11.677917378175382
+Algoritmo 1
+Tempo Algoritmo 1: 0.012864676281175
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00034468881997963514
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000006414804342
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000066713965157
+Tempo de execução - Ordenaçao InsertionSort: 0.000015823184044
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010263686947
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000565358089346
+Tempo de execução - Ordenaçao InsertionSort: 0.001367208632103
+Algoritmo 1
+Tempo Algoritmo 1: 0.000133000276692
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.005711741786164
+Tempo de execução - Ordenaçao InsertionSort: 0.146764308541825
+Algoritmo 1
+Tempo Algoritmo 1: 0.000927153054238
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00002523156374540753
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.049098912434072
+Tempo de execução - Ordenaçao InsertionSort: 10.996980337769385
+Algoritmo 1
+Tempo Algoritmo 1: 0.012512289695985
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00015652122594608743
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005559497096
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000043193015903
+Tempo de execução - Ordenaçao InsertionSort: 0.000012401955061
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009408379702
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000550390212548
+Tempo de execução - Ordenaçao InsertionSort: 0.001414678184234
+Algoritmo 1
+Tempo Algoritmo 1: 0.000114611170911
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000898072607887387
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003470836802673
+Tempo de execução - Ordenaçao InsertionSort: 0.121247927483630
+Algoritmo 1
+Tempo Algoritmo 1: 0.001031928191825
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000598715071924925
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.043308910034935
+Tempo de execução - Ordenaçao InsertionSort: 10.909592313524845
+Algoritmo 1
+Tempo Algoritmo 1: 0.013030605886823
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00021083323604213414
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000042337708658
+Tempo de execução - Ordenaçao InsertionSort: 0.000051746088359
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009408379702
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000561081553118
+Tempo de execução - Ordenaçao InsertionSort: 0.001167922043876
+Algoritmo 1
+Tempo Algoritmo 1: 0.000073128769499
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000213826811401759
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003300203007175
+Tempo de execução - Ordenaçao InsertionSort: 0.104267940390217
+Algoritmo 1
+Tempo Algoritmo 1: 0.000865143278932
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00011461117091134270
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.045455731221409
+Tempo de execução - Ordenaçao InsertionSort: 10.901013581851407
+Algoritmo 1
+Tempo Algoritmo 1: 0.018781264152662
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00022537345921745373
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000043193015903
+Tempo de execução - Ordenaçao InsertionSort: 0.000017533798535
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010691340570
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000465287141610
+Tempo de execução - Ordenaçao InsertionSort: 0.001364642710366
+Algoritmo 1
+Tempo Algoritmo 1: 0.000131289662201
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001496787679812311
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004476250469884
+Tempo de execução - Ordenaçao InsertionSort: 0.108210906792465
+Algoritmo 1
+Tempo Algoritmo 1: 0.001711042144837
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001967206664896181
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.043885387118474
+Tempo de execução - Ordenaçao InsertionSort: 11.030882151063510
+Algoritmo 1
+Tempo Algoritmo 1: 0.012323694448329
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00032672736782188739
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000041054747789
+Tempo de execução - Ordenaçao InsertionSort: 0.000013257262307
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000456306415531
+Tempo de execução - Ordenaçao InsertionSort: 0.001178185730824
+Algoritmo 1
+Tempo Algoritmo 1: 0.000063720389798
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000684245796485628
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003434486244735
+Tempo de execução - Ordenaçao InsertionSort: 0.109125657891642
+Algoritmo 1
+Tempo Algoritmo 1: 0.001746965049152
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000769776521046332
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.038489681359562
+Tempo de execução - Ordenaçao InsertionSort: 10.900434538846131
+Algoritmo 1
+Tempo Algoritmo 1: 0.018702575886066
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00013086200857787637
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000855307246
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000043620669526
+Tempo de execução - Ordenaçao InsertionSort: 0.000013257262307
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008125418833
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000464859487987
+Tempo de execução - Ordenaçao InsertionSort: 0.001368063939348
+Algoritmo 1
+Tempo Algoritmo 1: 0.000133855583938
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004019516400730
+Tempo de execução - Ordenaçao InsertionSort: 0.110580963170042
+Algoritmo 1
+Tempo Algoritmo 1: 0.000908763948457
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00010734105932368290
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.041562800293028
+Tempo de execução - Ordenaçao InsertionSort: 11.165549421577092
+Algoritmo 1
+Tempo Algoritmo 1: 0.014409788820365
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00016592960564776481
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000855307246
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000040627094166
+Tempo de execução - Ordenaçao InsertionSort: 0.000014540223175
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010691340570
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000128296086841055
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000452029879303
+Tempo de execução - Ordenaçao InsertionSort: 0.001335989917638
+Algoritmo 1
+Tempo Algoritmo 1: 0.000115038824534
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000384888260523166
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004965058560749
+Tempo de execução - Ordenaçao InsertionSort: 0.117301967506022
+Algoritmo 1
+Tempo Algoritmo 1: 0.001677685162258
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001240195506130201
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.043457733495671
+Tempo de execução - Ordenaçao InsertionSort: 11.638453074209449
+Algoritmo 1
+Tempo Algoritmo 1: 0.012399816793188
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00020869496792811655
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004276536228
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000427653623
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000036778211561
+Tempo de execução - Ordenaçao InsertionSort: 0.000012401955061
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000576904737162
+Tempo de execução - Ordenaçao InsertionSort: 0.001324870923445
+Algoritmo 1
+Tempo Algoritmo 1: 0.000100926254982
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000384888260523166
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004271404384562
+Tempo de execução - Ordenaçao InsertionSort: 0.123198883310860
+Algoritmo 1
+Tempo Algoritmo 1: 0.001817955550538
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00002394860287699698
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.038989608444619
+Tempo de execução - Ordenaçao InsertionSort: 11.670681478877546
+Algoritmo 1
+Tempo Algoritmo 1: 0.016292320067946
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00006414804342052763
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000039771786921
+Tempo de execução - Ordenaçao InsertionSort: 0.000015823184044
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010691340570
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000542692447338
+Tempo de execução - Ordenaçao InsertionSort: 0.001336845224884
+Algoritmo 1
+Tempo Algoritmo 1: 0.000131289662201
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.005484657712455
+Tempo de execução - Ordenaçao InsertionSort: 0.129086818389619
+Algoritmo 1
+Tempo Algoritmo 1: 0.000893368418037
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00006970754051697336
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.045048177318877
+Tempo de execução - Ordenaçao InsertionSort: 13.593168404437163
+Algoritmo 1
+Tempo Algoritmo 1: 0.018309562206710
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00032330613883945928
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000041482401412
+Tempo de execução - Ordenaçao InsertionSort: 0.000015395530421
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010263686947
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000549962558925
+Tempo de execução - Ordenaçao InsertionSort: 0.000971629031010
+Algoritmo 1
+Tempo Algoritmo 1: 0.000059871507192
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001368491592971256
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003978889306564
+Tempo de execução - Ordenaçao InsertionSort: 0.148367581973716
+Algoritmo 1
+Tempo Algoritmo 1: 0.001690514770942
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00021083323604213414
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.048940680593635
+Tempo de execução - Ordenaçao InsertionSort: 13.351231920408528
+Algoritmo 1
+Tempo Algoritmo 1: 0.013625044422520
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00009451145063957738
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000040627094166
+Tempo de execução - Ordenaçao InsertionSort: 0.000015395530421
+Algoritmo 1
+Tempo Algoritmo 1: 0.000011118994193
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000547396637189
+Tempo de execução - Ordenaçao InsertionSort: 0.001381748855278
+Algoritmo 1
+Tempo Algoritmo 1: 0.000133427930315
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.005264843750334
+Tempo de execução - Ordenaçao InsertionSort: 0.135990430822536
+Algoritmo 1
+Tempo Algoritmo 1: 0.000950246349869
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00003335698257867437
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.049623215775629
+Tempo de execução - Ordenaçao InsertionSort: 16.458952308495640
+Algoritmo 1
+Tempo Algoritmo 1: 0.018572141531111
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00011888770713937787
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004276536228
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000037205865184
+Tempo de execução - Ordenaçao InsertionSort: 0.000011546647816
+Algoritmo 1
+Tempo Algoritmo 1: 0.000007697765210
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000375479880821
+Tempo de execução - Ordenaçao InsertionSort: 0.000886098306449
+Algoritmo 1
+Tempo Algoritmo 1: 0.000061582121684
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000342122898242814
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003245463343456
+Tempo de execução - Ordenaçao InsertionSort: 0.138734256466444
+Algoritmo 1
+Tempo Algoritmo 1: 0.002040335434396
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00044647038220687230
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.056098746932120
+Tempo de execução - Ordenaçao InsertionSort: 16.246627844270790
+Algoritmo 1
+Tempo Algoritmo 1: 0.018587964715155
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00017405502448103165
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000037205865184
+Tempo de execução - Ordenaçao InsertionSort: 0.000016678491289
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008980726079
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000526441609671
+Tempo de execução - Ordenaçao InsertionSort: 0.001702489072381
+Algoritmo 1
+Tempo Algoritmo 1: 0.000133855583938
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003341685408587
+Tempo de execução - Ordenaçao InsertionSort: 0.130711474502650
+Algoritmo 1
+Tempo Algoritmo 1: 0.002031354708317
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00006756927240295577
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.051314585853817
+Tempo de execução - Ordenaçao InsertionSort: 14.200863347133716
+Algoritmo 1
+Tempo Algoritmo 1: 0.019146052692913
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00031603602725179946
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000011546647816
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000060726814438
+Tempo de execução - Ordenaçao InsertionSort: 0.000017961452158
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009836033324
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000534994682127
+Tempo de execução - Ordenaçao InsertionSort: 0.001329147459673
+Algoritmo 1
+Tempo Algoritmo 1: 0.000113328210043
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000427653622803518
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004938116382512
+Tempo de execução - Ordenaçao InsertionSort: 0.162194478906199
+Algoritmo 1
+Tempo Algoritmo 1: 0.001718739910047
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.052961052301610
+Tempo de execução - Ordenaçao InsertionSort: 13.709405086768783
+Algoritmo 1
+Tempo Algoritmo 1: 0.015687190191679
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00025017736934005775
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000037633518807
+Tempo de execução - Ordenaçao InsertionSort: 0.000019244413026
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000213826811401759
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000534994682127
+Tempo de execução - Ordenaçao InsertionSort: 0.001119597184500
+Algoritmo 1
+Tempo Algoritmo 1: 0.000067996926026
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000213826811401759
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.006047877533687
+Tempo de execução - Ordenaçao InsertionSort: 0.152729221272689
+Algoritmo 1
+Tempo Algoritmo 1: 0.000883532384712
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00003164636808746030
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.051267971608931
+Tempo de execução - Ordenaçao InsertionSort: 14.614325284464499
+Algoritmo 1
+Tempo Algoritmo 1: 0.019113123363958
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00008766899267472110
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000042765362280
+Tempo de execução - Ordenaçao InsertionSort: 0.000019244413026
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009836033324
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000709049706608
+Tempo de execução - Ordenaçao InsertionSort: 0.003100488765326
+Algoritmo 1
+Tempo Algoritmo 1: 0.000132572623069
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001240195506130201
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.005878099045434
+Tempo de execução - Ordenaçao InsertionSort: 0.160476594303397
+Algoritmo 1
+Tempo Algoritmo 1: 0.002931137930695
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00004447597677156582
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.066480466279298
+Tempo de execução - Ordenaçao InsertionSort: 15.031528335687566
+Algoritmo 1
+Tempo Algoritmo 1: 0.016879060838432
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00007783295935024020
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000042765362280
+Tempo de execução - Ordenaçao InsertionSort: 0.000018389105781
+Algoritmo 1
+Tempo Algoritmo 1: 0.000011546647816
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00004789720575399397
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000552100827039
+Tempo de execução - Ordenaçao InsertionSort: 0.001483958071128
+Algoritmo 1
+Tempo Algoritmo 1: 0.000193727091130
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000213826811401759
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003570480096787
+Tempo de execução - Ordenaçao InsertionSort: 0.127668291322780
+Algoritmo 1
+Tempo Algoritmo 1: 0.002906334020573
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001069134057008794
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.045667847418319
+Tempo de execução - Ordenaçao InsertionSort: 14.198203341599879
+Algoritmo 1
+Tempo Algoritmo 1: 0.022245258497371
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00006158212168370652
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005559497096
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000034639943447
+Tempo de execução - Ordenaçao InsertionSort: 0.000014967876798
+Algoritmo 1
+Tempo Algoritmo 1: 0.000005559497096
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000386598875014
+Tempo de execução - Ordenaçao InsertionSort: 0.000898072607887
+Algoritmo 1
+Tempo Algoritmo 1: 0.000063720389798
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000684245796485628
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.007178166058757
+Tempo de execução - Ordenaçao InsertionSort: 0.143571446593974
+Algoritmo 1
+Tempo Algoritmo 1: 0.001979180966335
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00006414804342052763
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.059553760550749
+Tempo de execução - Ordenaçao InsertionSort: 13.609548393497784
+Algoritmo 1
+Tempo Algoritmo 1: 0.015236443273244
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00036778211561102508
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000041054747789
+Tempo de execução - Ordenaçao InsertionSort: 0.000016678491289
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008980726079
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000483676247391
+Tempo de execução - Ordenaçao InsertionSort: 0.001391584888603
+Algoritmo 1
+Tempo Algoritmo 1: 0.000131289662201
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.008330264918590
+Tempo de execução - Ordenaçao InsertionSort: 0.135946810153010
+Algoritmo 1
+Tempo Algoritmo 1: 0.001390729581357
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00002523156374540753
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.048227354350798
+Tempo de execução - Ordenaçao InsertionSort: 13.168347986884719
+Algoritmo 1
+Tempo Algoritmo 1: 0.013772157268764
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00157248237104853400
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000039771786921
+Tempo de execução - Ordenaçao InsertionSort: 0.000020527373895
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010263686947
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000517460883592
+Tempo de execução - Ordenaçao InsertionSort: 0.001436060865374
+Algoritmo 1
+Tempo Algoritmo 1: 0.000116321785403
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000384888260523166
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004024648244204
+Tempo de execução - Ordenaçao InsertionSort: 0.132352809106969
+Algoritmo 1
+Tempo Algoritmo 1: 0.001789302757810
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001368491592971256
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.048811101545925
+Tempo de execução - Ordenaçao InsertionSort: 13.778236365012631
+Algoritmo 1
+Tempo Algoritmo 1: 0.016368870066427
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00014711284624441002
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000427653623
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000128296086841055
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000039344133298
+Tempo de execução - Ordenaçao InsertionSort: 0.000019244413026
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008125418833
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000128296086841055
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000488380437242
+Tempo de execução - Ordenaçao InsertionSort: 0.001456160585646
+Algoritmo 1
+Tempo Algoritmo 1: 0.000128723740464
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001411256955251608
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004748238173987
+Tempo de execução - Ordenaçao InsertionSort: 0.131590302697511
+Algoritmo 1
+Tempo Algoritmo 1: 0.001737984323073
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00007099050138538392
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.048119585637852
+Tempo de execução - Ordenaçao InsertionSort: 13.626148624174148
+Algoritmo 1
+Tempo Algoritmo 1: 0.018351899915367
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00044176619235603362
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000044475976772
+Tempo de execução - Ordenaçao InsertionSort: 0.000020955027517
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000510618425627
+Tempo de execução - Ordenaçao InsertionSort: 0.001106339922193
+Algoritmo 1
+Tempo Algoritmo 1: 0.000077405305727
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000855307245607035
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003872831208109
+Tempo de execução - Ordenaçao InsertionSort: 0.134286658789287
+Algoritmo 1
+Tempo Algoritmo 1: 0.001468562540707
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00019372709112999345
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.061072358565325
+Tempo de execução - Ordenaçao InsertionSort: 14.109434423807306
+Algoritmo 1
+Tempo Algoritmo 1: 0.025468911506063
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00010563044483246884
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004276536228
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000035067597070
+Tempo de execução - Ordenaçao InsertionSort: 0.000016250837667
+Algoritmo 1
+Tempo Algoritmo 1: 0.000004276536228
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000344261166357
+Tempo de execução - Ordenaçao InsertionSort: 0.001327436845182
+Algoritmo 1
+Tempo Algoritmo 1: 0.000127868433218
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001582318404373015
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004590433987173
+Tempo de execução - Ordenaçao InsertionSort: 0.123515346991735
+Algoritmo 1
+Tempo Algoritmo 1: 0.001734990747714
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00002138268114017588
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.042371493293750
+Tempo de execução - Ordenaçao InsertionSort: 13.357409804643549
+Algoritmo 1
+Tempo Algoritmo 1: 0.014577856694126
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00016421899115655073
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000003848882605
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000037633518807
+Tempo de execução - Ordenaçao InsertionSort: 0.000015395530421
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000448180996698
+Tempo de execução - Ordenaçao InsertionSort: 0.001089233777281
+Algoritmo 1
+Tempo Algoritmo 1: 0.000168495527385
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000256592173682111
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004104619471668
+Tempo de execução - Ordenaçao InsertionSort: 0.133126434510621
+Algoritmo 1
+Tempo Algoritmo 1: 0.000927153054238
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00013898742741114321
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.050623925252989
+Tempo de execução - Ordenaçao InsertionSort: 13.537143213928164
+Algoritmo 1
+Tempo Algoritmo 1: 0.015154333777665
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00019030586214756530
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004704189851
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001710614491
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000042765362280
+Tempo de execução - Ordenaçao InsertionSort: 0.000467853063347
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000898927915133
+Tempo de execução - Ordenaçao InsertionSort: 0.001544684885566
+Algoritmo 1
+Tempo Algoritmo 1: 0.000162508376665
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000384888260523166
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004979598783924
+Tempo de execução - Ordenaçao InsertionSort: 0.132614533124125
+Algoritmo 1
+Tempo Algoritmo 1: 0.001730286557863
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00002651452461381809
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.049637755998804
+Tempo de execução - Ordenaçao InsertionSort: 12.950295530036039
+Algoritmo 1
+Tempo Algoritmo 1: 0.015326678187655
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00030021284320806929
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000000855307246
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000085530724560704
+Foi encontrado o numero?(1 - sim 0-nao) 0
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000038061172430
+Tempo de execução - Ordenaçao InsertionSort: 0.000016250837667
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009408379702
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000353241892436
+Tempo de execução - Ordenaçao InsertionSort: 0.001002420091851
+Algoritmo 1
+Tempo Algoritmo 1: 0.000070562847763
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.003270267253578
+Tempo de execução - Ordenaçao InsertionSort: 0.130587027298414
+Algoritmo 1
+Tempo Algoritmo 1: 0.000972056684632
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00005516731734165376
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.046890509125914
+Tempo de execução - Ordenaçao InsertionSort: 13.077089269700185
+Algoritmo 1
+Tempo Algoritmo 1: 0.011185280504426
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00031817429536581704
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000045331284017
+Tempo de execução - Ordenaçao InsertionSort: 0.000017533798535
+Algoritmo 1
+Tempo Algoritmo 1: 0.000009408379702
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000533284067636
+Tempo de execução - Ordenaçao InsertionSort: 0.001587450247847
+Algoritmo 1
+Tempo Algoritmo 1: 0.000126157818727
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004815807446390
+Tempo de execução - Ordenaçao InsertionSort: 0.121864176354090
+Algoritmo 1
+Tempo Algoritmo 1: 0.001144828748245
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00007997122746425778
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.049871254876855
+Tempo de execução - Ordenaçao InsertionSort: 13.171737141845437
+Algoritmo 1
+Tempo Algoritmo 1: 0.022450959889939
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00054953490530252008
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000004276536228
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000042765362280352
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000040199440544
+Tempo de execução - Ordenaçao InsertionSort: 0.000017106144912
+Algoritmo 1
+Tempo Algoritmo 1: 0.000008553072456
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000523875687934
+Tempo de execução - Ordenaçao InsertionSort: 0.001449318127681
+Algoritmo 1
+Tempo Algoritmo 1: 0.000122308936122
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000256592173682111
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004319301590316
+Tempo de execução - Ordenaçao InsertionSort: 0.130260727584215
+Algoritmo 1
+Tempo Algoritmo 1: 0.001703344379626
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00029721926784844469
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.047072261915606
+Tempo de execução - Ordenaçao InsertionSort: 13.002835771172810
+Algoritmo 1
+Tempo Algoritmo 1: 0.017292174238060
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00018688463316513716
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10
+Tempo de execução - Ordenaçao MergeSort: 0.000005131843474
+Tempo de execução - Ordenaçao InsertionSort: 0.000000427653623
+Algoritmo 1
+Tempo Algoritmo 1: 0.000001282960868
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000000000000000000
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100
+Tempo de execução - Ordenaçao MergeSort: 0.000041054747789
+Tempo de execução - Ordenaçao InsertionSort: 0.000019244413026
+Algoritmo 1
+Tempo Algoritmo 1: 0.000010691340570
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000299357535962462
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 1000
+Tempo de execução - Ordenaçao MergeSort: 0.000509335464759
+Tempo de execução - Ordenaçao InsertionSort: 0.001395433771208
+Algoritmo 1
+Tempo Algoritmo 1: 0.000127013125973
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00000171061449121407
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 10000
+Tempo de execução - Ordenaçao MergeSort: 0.004062709416633
+Tempo de execução - Ordenaçao InsertionSort: 0.139398402542657
+Algoritmo 1
+Tempo Algoritmo 1: 0.001663572592706
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00001325726230690904
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
+Tamanho da Entrada : 100000
+Tempo de execução - Ordenaçao MergeSort: 0.049794277224750
+Tempo de execução - Ordenaçao InsertionSort: 12.967431610701775
+Algoritmo 1
+Tempo Algoritmo 1: 0.018425456338490
+Foi encontrado o numero?(1 - sim 0-nao) 1
+Algotimo 2(Otmizado)
+Tempo Algoritmo 2(Otimizado): 0.00019116116939317234
+Foi encontrado o numero?(1 - sim 0-nao) 1
+
+
+
