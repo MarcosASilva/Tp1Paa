@@ -1,5 +1,25 @@
 #include "tp1.h"
 #include <time.h>
+void shellSort(int *vet, int size) {
+    int i , j , value;
+    int gap = 1;
+    while(gap < size) {
+        gap = 3*gap+1;
+    }
+    while ( gap > 1) {
+        gap /= 3;
+        for(i = gap; i < size; i++) {
+            value = vet[i];
+            j = i;
+            while (j >= gap && value < vet[j - gap]) {
+                vet[j] = vet [j - gap];
+                j = j - gap;
+            }
+            vet [j] = value;
+        }
+    }
+}
+/*
 void insertionSort(int* original, int length) {
 	int i, j, atual;
 
@@ -58,7 +78,7 @@ void mergeSort(int vetor[], int comeco, int fim){
         mergeSort(vetor, meio+1, fim);
         merge(vetor, comeco, meio, fim);
     }
-}
+}*/
 int inicializaVetor(int *v,int n){
     srand((unsigned)time(NULL) );
     int i;
@@ -103,17 +123,62 @@ int cmpfunc(const void * a, const void * b) {
     return z;
 }*/
 
-
+int PesquisaBinaria (int vet[], int chave, int Tam)
+{
+     int inf = 0;
+     int sup = Tam-1;
+     int meio;
+     while (inf <= sup)
+     {
+          meio = (inf + sup)/2;
+          if (chave == vet[meio])
+               return meio;
+          if (chave < vet[meio])
+               sup = meio-1;
+          else
+               inf = meio+1;
+     }
+     return -1;   // não encontrado
+}
 int verificaVetor2(int x,int *vet,int n)
 {
     int i,j,z=0;
-    int *item;
+    int item;
     for(i=0; i<n; i++)
     {
         j = vet[i] - x;
-     item = (int*)bsearch(&j,vet,n,sizeof(int),cmpfunc);
+     item = PesquisaBinaria(vet,j,n);
      if(j!=NULL) z=1;
     }
     return z;
 }
+void quick_sort(int *a, int left, int right) {
+    int i, j, x, y;
 
+    i = left;
+    j = right;
+    x = a[(left + right) / 2];
+
+    while(i <= j) {
+        while(a[i] < x && i < right) {
+            i++;
+        }
+        while(a[j] > x && j > left) {
+            j--;
+        }
+        if(i <= j) {
+            y = a[i];
+            a[i] = a[j];
+            a[j] = y;
+            i++;
+            j--;
+        }
+    }
+
+    if(j > left) {
+        quick_sort(a, left, j);
+    }
+    if(i < right) {
+        quick_sort(a, i, right);
+    }
+}

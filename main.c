@@ -16,7 +16,7 @@ int main()
     arq = fopen("teste.txt","w+");
 
     arq2 = fopen("teste2.csv","a+");
-    fprintf(arq2,"TamanhoDaEntrada,MergeSort,InsertSort,Algoritmo1,Algoritmo2\n");
+    fprintf(arq2,"TamanhoDaEntrada,ShellSort,QuickSort,Algoritmo1,Algoritmo2\n");
 
     if(arq==NULL) printf("erro");
     else{
@@ -39,10 +39,10 @@ int main()
     QueryPerformanceFrequency((LARGE_INTEGER *) & freq);
     QueryPerformanceCounter((LARGE_INTEGER *) & inicio);
 
-    mergeSort(vet,0,n-1);
+    shellSort(vet,n);
     QueryPerformanceCounter((LARGE_INTEGER *) & fim);
     tempo = ((double) fim - (double) inicio) / (double) freq;
-    fprintf(arq,"Tempo de execução - Ordenaçao MergeSort: %.15lf\n", tempo);
+    fprintf(arq,"Tempo de execução - Ordenaçao ShellSort: %.15lf\n", tempo);
     fprintf(arq2,"%.20lf,",tempo);
     tempo = 0;
 
@@ -51,10 +51,10 @@ int main()
     inicializaVetor(vet,n);
     QueryPerformanceFrequency((LARGE_INTEGER *) & freq);
     QueryPerformanceCounter((LARGE_INTEGER *) & inicio);
-    insertionSort(vet,n);
+    quick_sort(vet,0,n-1);
     QueryPerformanceCounter((LARGE_INTEGER *) & fim);
     tempo = ((double) fim - (double) inicio) / (double) freq;
-    fprintf(arq,"Tempo de execução - Ordenaçao InsertionSort: %.15lf\n", tempo);
+    fprintf(arq,"Tempo de execução - Ordenaçao QuickSort: %.15lf\n", tempo);
     fprintf(arq2,"%.20lf,",tempo);
 
 
